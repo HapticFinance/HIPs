@@ -1,4 +1,4 @@
-# HIP [Discord](https://discord.gg/ahJVRvjyzk) [Twitter](https://twitter.com/Haptic_Finance) [Telegram](https://t.me/HapticFinance)
+# HIP [Discord](https://discord.gg/ahJVRvjyzk) [Twitter](https://twitter.com/HapticFinance) [Telegram](https://t.me/HapticFinance)
 
 Haptic Improvement Proposals (HIP) describe standards for the Haptic platform, including core protocol specifications, client APIs, and contract standards.
 
