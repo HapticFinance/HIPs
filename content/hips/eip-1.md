@@ -32,7 +32,7 @@ Parties involved in the process are the _author_, the [_HIP editors_](#hip-edito
 
 Your role as the champion is to write the HIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful HIP will move along:
 
-![HIP-workflow.png](https://github.com/hapticfinance/HIPss/blob/master/static/hip-workflow.png)
+![HIP-workflow.png](https://github.com/hapticfinance/HIPs/blob/master/static/hip-workflow.png)
 
 Each status change is requested by the HIP author and reviewed by the HIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your HIP. The HIP editors will process these requests as per the conditions below.
 
@@ -167,7 +167,7 @@ See [the revision history for further details](https://github.com/HapticFinance/
 ### Bibliography
 
 [the haptic finance discord]: https://discord.gg/gNFfBfV4he
-[pull request]: https://github.com/hapticfinance/HIPss/pulls
+[pull request]: https://github.com/hapticfinance/HIPs/pulls
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [bitcoin's bip-0001]: https://github.com/bitcoin/bips
 [python's pep-0001]: https://www.python.org/dev/peps/

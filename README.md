@@ -4,7 +4,7 @@ Haptic Improvement Proposals (HIP) describe standards for the Haptic platform, i
 
 # Contributing
 
-1.  Review [HIP-1](https://github.com/hapticfinance/HIPss/blob/master/content/hips/hip-1.md).
+1.  Review [HIP-1](https://github.com/hapticfinance/HIPs/blob/master/content/hips/hip-1.md).
 2.  Fork the repository by clicking "Fork" in the top right.
 3.  Add your HIP to your fork of the repository. There is a [template HIP here](hip-x.md).
 4.  Submit a Pull Request to Haptic's [HIPs repository](https://github.com/hapticfinance/HIPs).
