@@ -75,9 +75,9 @@ const Main: React.FC = ({ children }) => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/haptic_finance">
+                  <a href="https://twitter.com/hapticfinance">
                     <TwitterIcon className="svg-icon" />
-                    <span className="username">haptic_finance</span>
+                    <span className="username">hapticfinance</span>
                   </a>
                 </li>
               </ul>
