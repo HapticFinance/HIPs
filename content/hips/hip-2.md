@@ -23,8 +23,6 @@ The protocol revolves around HAP to back system debt and coordinate behavior on 
 
 ## **Specification**
 
-
-
 | Ticker      | Initial supply  | 
 | :---        |    :----:   |    
 | HAP         |100,000,000     |
@@ -46,6 +44,8 @@ The total supply at the end of the period will reach 245,312,500 HAP.
 ## **Token distribution**
 
 
+![Distribution](https://raw.githubusercontent.com/HapticFinance/assets/main/Distribution.png)
+
 | Entity      | Supply % |
 | :---        |    :----:   |
 | Haptic Treasury   | 30%       |
@@ -55,8 +55,6 @@ The total supply at the end of the period will reach 245,312,500 HAP.
 | Early stakers | 10%         |
 | Early borrowers | 5%        |
 | Investors   | 5%        |
-
-
 
 ## **Inflation and fees**
 20% of inflation and protocol fees will be directed to the Treasury. 80% of inflation and fees will go to stakers. These percentages can be adjusted at the Technical Council's discretion via a HIP.
