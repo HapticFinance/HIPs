@@ -6,5 +6,5 @@ export const getGithubLink = (fileAbsolutePath: string): string => {
     takeRight(3),
     join('/'),
   )(fileAbsolutePath)
-  return `https://github.com/hapticDAO/HIPs/blob/master/${relativePath}`
+  return `https://github.com/HapticFinance/HIPs/blob/master/${relativePath}`
 }
