@@ -58,4 +58,5 @@ The total supply at the end of the period will reach 245,312,500 HAP.
 20% of inflation and protocol fees will be directed to the Treasury. 80% of inflation and fees will go to stakers. These percentages can be adjusted at the Technical Council's discretion via a HIP.
 
 ## **Escrow and vesting**
-HAP obtained via inflation will be locked in Escrow for 1 year. Vesting HAP early will begin with a 80% burning fee, which will decay to 0 after 1 year. 
+HAP obtained via inflation will be locked in Escrow for 1 year. Vesting HAP early will begin with a 80% burning fee, which will decay to 0 after 1 year. Team and advisors vest quarterly for 24 months with a 6 months cliff.
+
