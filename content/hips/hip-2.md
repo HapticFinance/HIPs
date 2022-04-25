@@ -45,7 +45,7 @@ The total supply at the end of the period will reach 245,312,500 HAP.
 
 ![Distribution](https://raw.githubusercontent.com/HapticFinance/assets/main/Distribution.png)
 
-| Entity      | Supply % |
+| Allocated to      | Supply % |
 | :---        |    :----:   |
 | Treasury   | 25%       |
 | Community incentives   | 20%        |
