@@ -47,13 +47,12 @@ The total supply at the end of the period will reach 245,312,500 HAP.
 
 | Entity      | Supply % |
 | :---        |    :----:   |
-| Haptic Treasury   | 25%       |
-| Community growth   | 20%        |
-| Team & Core Contributors  | 15%        |
-| Parternships & Investors   | 15%        |
-| Incentives to other protocols      |10%      |
-| Early adopters (Stakers) | 10%         |
-| Early adopters (Borrowers) | 5%        |
+| Treasury   | 25%       |
+| Community incentives   | 20%        |
+| Team & advisors  | 15%        |
+| Parternships incentives   | 15%        |
+| Early adopters (Stakers) | 15%         |
+| Marketing   | 10%       |
 
 ## **Inflation and fees**
 20% of inflation and protocol fees will be directed to the Treasury. 80% of inflation and fees will go to stakers. These percentages can be adjusted at the Technical Council's discretion via a HIP.
